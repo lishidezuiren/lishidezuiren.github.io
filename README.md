@@ -7,8 +7,8 @@
 - C#、Java、JavaScript、Python
 
 ### 项目 Project
-[WPF-Game-贪吃蛇](https://github.com/lishidezuiren/SnakeGame)
-[郑州确诊病例分布-地图可视化-后端](https://github.com/lishidezuiren/zzyq)
+* [WPF-Game-贪吃蛇](https://github.com/lishidezuiren/SnakeGame)
+* [Python-郑州确诊病例分布-地图可视化-后端](https://github.com/lishidezuiren/zzyq)
 
 ### Support or Contact
 
