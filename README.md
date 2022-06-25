@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ### 历史的醉人
-- Xamarin 开发者 
+- MAUI 开发者 
 - React 开发者 
 - 信息安全工程师 
 - C#、Java、JavaScript、Python
